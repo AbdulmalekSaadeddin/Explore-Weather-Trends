@@ -19,4 +19,4 @@ What were your key considerations when deciding how to visualize the trends?
 
 
 
-Udacity Data Analyst Nanodegree
+Udacity Data Analyst Nanodegree - Project 1
